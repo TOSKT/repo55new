@@ -1,4 +1,4 @@
 # repo55new
 はじめまして
-#LICENSE
+# LICENSE
 MIT
